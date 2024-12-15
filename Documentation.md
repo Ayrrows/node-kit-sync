@@ -1,1 +1,13 @@
-node-kit-sync is a simple and efficient JavaScript library for handling files and synchronous operations. With functions like createFile, writeFile, readFile, Wait, and Prompt, it streamlines common tasks, making file creation and user input handling easy. Ideal for developers looking for quick, straightforward solutions to work with files and user interactions.
+node-kit-sync is a simple JavaScript library designed to make file handling and synchronous operations easier. It provides useful functions like:
+
+createFile(): Creates an empty file.
+writeFile(): Adds or replaces content in files.
+readFile(): Reads file content asynchronously.
+Wait(): Pauses execution for a specified number of seconds.
+Prompt(): Requests user input in the terminal.
+It’s ideal for quick and practical tasks involving file manipulation and simple user interaction.
+
+
+
+
+
